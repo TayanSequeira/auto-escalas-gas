@@ -42,3 +42,24 @@ auto-escala-gas/
 │   ├── emailService.gs   # Geração dos e-mails personalizados
 │   ├── scheduleService.gs # Lógica para descobrir semana ativa
 │   ├── sheetService.gs   # Funções que extraem e organizam a escala do Sheets
+
+---
+
+## Notas Pessoais
+
+Esse projeto foi um desafio e também um aprendizado.
+
+Queria encontrar uma solução prática para um problema real do dia a dia na escola, e ainda conseguir organizar o projeto de uma forma que fosse escalável, versionada e fácil de manter.
+
+Aprendi muito sobre:
+- Automatizar processos com Apps Script.
+- Usar o CLASP para gerenciar Apps Script localmente.
+- Integrar o Git e GitHub na prática com projetos do Google.
+
+Pretendo continuar melhorando essa automação com novas funcionalidades, como:
+- Relatórios automáticos.
+- Integração com WhatsApp API.
+- Melhorias no design dos e-mails enviados.
+
+Se quiser trocar uma ideia sobre automações, estou à disposição!
+
