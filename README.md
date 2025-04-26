@@ -42,7 +42,7 @@ auto-escala-gas/
 │   ├── emailService.gs   # Geração dos e-mails personalizados
 │   ├── scheduleService.gs # Lógica para descobrir semana ativa
 │   ├── sheetService.gs   # Funções que extraem e organizam a escala do Sheets
-
+```
 ---
 
 ## Notas Pessoais
